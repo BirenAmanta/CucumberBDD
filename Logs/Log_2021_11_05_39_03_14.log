@@ -1,0 +1,31 @@
+2021-11-05 15:39:27,669 DEBUG [main] StepDefination:14 - URL Opened
+2021-11-05 15:39:29,111 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-05 15:39:29,113 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-05 15:39:29,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-05 15:39:29,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-05 15:39:29,117 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-05 15:39:29,356 DEBUG [main] StepDefination:14 - Page opend with title India's Best Online Store | Free Shipping | eLocalshop
+2021-11-05 15:39:30,308 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-05 15:39:30,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-05 15:39:30,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-05 15:39:30,309 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-05 15:39:30,309 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-05 15:39:35,706 DEBUG [main] StepDefination:14 - Hindi Book is clicked in page Home page
+2021-11-05 15:39:37,247 DEBUG [main] StepDefination:14 - More Authors is clicked in page Home page
+2021-11-05 15:39:39,989 DEBUG [main] StepDefination:14 - English is clicked in page Hindi Books Page
+2021-11-05 15:39:52,492 DEBUG [main] StepDefination:14 - Book Name is clicked in page Hindi Books Page
+2021-11-05 15:39:56,340 DEBUG [main] StepDefination:14 - Add To Cart is clicked in page Cart Page
+2021-11-05 15:39:59,560 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-05 15:39:59,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-05 15:39:59,561 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-05 15:39:59,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-05 15:39:59,562 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-05 15:40:06,059 ERROR [main] StepDefination:20 - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='product-quantity-select']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MT-5CD119LF0H', ip: '192.168.55.200', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\M1074035\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60688}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ab65ee44e07d5c072998995d5d48152
+*** Element info: {Using=xpath, value=//*[@id='product-quantity-select']}

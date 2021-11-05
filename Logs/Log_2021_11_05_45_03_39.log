@@ -1,0 +1,36 @@
+2021-11-05 15:45:51,497 DEBUG [main] StepDefination:14 - URL Opened
+2021-11-05 15:45:52,748 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-05 15:45:52,751 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-05 15:45:52,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-05 15:45:52,757 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-05 15:45:52,757 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-05 15:45:53,189 DEBUG [main] StepDefination:14 - Page opend with title India's Best Online Store | Free Shipping | eLocalshop
+2021-11-05 15:45:54,268 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-05 15:45:54,268 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-05 15:45:54,269 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-05 15:45:54,269 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-05 15:45:54,269 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-05 15:45:58,950 DEBUG [main] StepDefination:14 - Hindi Book is clicked in page Home page
+2021-11-05 15:46:00,468 DEBUG [main] StepDefination:14 - More Authors is clicked in page Home page
+2021-11-05 15:46:03,204 DEBUG [main] StepDefination:14 - English is clicked in page Hindi Books Page
+2021-11-05 15:46:16,002 DEBUG [main] StepDefination:14 - Book Name is clicked in page Hindi Books Page
+2021-11-05 15:46:19,908 DEBUG [main] StepDefination:14 - Add To Cart is clicked in page Cart Page
+2021-11-05 15:46:23,050 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2021-11-05 15:46:23,051 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2021-11-05 15:46:23,052 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-11-05 15:46:23,052 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-11-05 15:46:23,053 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1074035/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-11-05 15:46:26,621 DEBUG [main] StepDefination:14 - books is clicked in page Combo books
+2021-11-05 15:46:33,352 DEBUG [main] StepDefination:14 - Books Combo is clicked in page Home Page
+2021-11-05 15:46:36,951 DEBUG [main] StepDefination:14 - Author is clicked in page Books Combo page
+2021-11-05 15:46:42,620 DEBUG [main] StepDefination:14 - Author is clicked in page Books Combo page
+2021-11-05 15:46:46,383 DEBUG [main] StepDefination:14 - The Lost Symbol, Inferno & Origin (Set of 3 Dan Brown Combo Hardcover Edition) is clicked in page Books Combo page
+2021-11-05 15:46:51,544 ERROR [main] StepDefination:20 - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='product-quantity-select']"}
+  (Session info: chrome=95.0.4638.69)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MT-5CD119LF0H', ip: '192.168.55.200', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\M1074035\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49276}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b8631b04eaf013505f8aa529e058991b
+*** Element info: {Using=xpath, value=//*[@id='product-quantity-select']}
