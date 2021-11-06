@@ -7,7 +7,7 @@ pipeline{
     {
         stage('checkout'){
        steps{
-           git branch:'master',url: 'https://github.com/BirenAmanta/cucumber-test.git'
+           git branch:'master',url: 'https://github.com/BirenAmanta/CucumberBDD.git'
         }
         }
         stage('Build')
